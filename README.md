@@ -9,5 +9,6 @@ This app is made for people(such as myself) who often forget to drink water, It 
 2. Extract the zip file
 3. Keep the .exe and the .pck file in the same folder.
 
-You can now run the .exe file and use the app
+You can now run the .exe file and use the app.
+
 (Note: I did not pay for a codesign, Windows will block the app from running. To run it click "More info" > "Run Anyway")
