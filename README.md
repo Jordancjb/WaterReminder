@@ -11,4 +11,4 @@ This app is made for people(such as myself) who often forget to drink water, It 
 
 You can now run the .exe file and use the app.
 
-(Note: I did not pay for a codesign, Windows will block the app from running. To run it click "More info" > "Run Anyway")
+(Note: I did not pay for a codesign, Windows will block the app from running. To run it click "More info" > "Run anyway")
